@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.roxasjearom.designpatterns"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.roxasjearom.designpatterns"
